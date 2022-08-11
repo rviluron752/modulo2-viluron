@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova&family=Uchen&display=swap');
+
+h1 {
+    background-color:lightgrey;
+    color:blueviolet;
+    font-family: 'Ibarra Real Nova', serif;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Ibarra Real Nova', serif;
+}
